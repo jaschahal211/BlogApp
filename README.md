@@ -1,5 +1,4 @@
 # BlogApp — Full-Stack Blogging Platform
-
 A full-stack blogging platform built with the **MERN stack**, providing a structured content management workflow with authentication, authorization, RESTful APIs, and complete CRUD operations.
 
 ## Overview
